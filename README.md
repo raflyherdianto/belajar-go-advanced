@@ -1,1 +1,1 @@
-# belajar-go-advanced
+# Course Backend - Advanced Golang
